@@ -12,34 +12,8 @@
             <a href="#">Login</a>
             
         </nav>
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <form id="login" action="ajax/form.php" method="post">
-            <label>Usuario:</label>
-            <input type="text" name="user">
-            <label>Password:</label>
-            <input type="text" name="pass">
-        </form>
-        <?php
-<<<<<<< HEAD
-        echo "AÑADIDAS LAS ESTRUCTURAS."
-=======
+
             
->>>>>>> Contacto
-=======
-        <div id="content">
-            <form id="login" action="ajax/form.php" method="post">
-                <label>Usuario:</label>
-                <input type="text" name="user">
-                <label>Password:</label>
-                <input type="text" name="pass">
-                <input id="submit_form" type="submit" value="Enviar">
-            </form>
-        </div>
-        <?php
-            
->>>>>>> CSS
-=======
         <div id="content">
             <form id="login" action="ajax/form.php" method="post">
                 <label>Usuario:</label>
@@ -53,7 +27,7 @@
             for($i=0; $i<20; $i++){
                 echo '<div class="block"><div ><span>BLOQUE</span></div></div>';
             }
->>>>>>> 001
+            
         ?>
     </body>
 </html>
